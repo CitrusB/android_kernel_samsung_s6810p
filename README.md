@@ -1,1 +1,1 @@
-# android_kernel_samsung_nevisp
+# android_kernel_samsung_s6810
