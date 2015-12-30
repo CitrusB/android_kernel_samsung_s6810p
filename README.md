@@ -1,1 +1,1 @@
-# android_kernel_samsung_s6810
+# android_kernel_samsung_s6810p
